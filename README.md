@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end developpement
 - 🌱 I’m currently learning javascript
 - 💞️ I am seeking to engage in collaborative endeavors with individuals interested in the development of a website.
-- 📫 How to reach me yahyaoufkir66@gmai.com
+- 📫 How to reach me yahyaoufkir66@gmail.com
 
 <!---
 Yahyaouf/Yahyaouf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
