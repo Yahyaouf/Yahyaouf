@@ -26,19 +26,6 @@
 
 ---
 
-## 💼 Expérience Professionnelle
-
-### 🔹 Stagiaire Développeur Python / Automatisation
-**VodinIT** | Rabat, Maroc | *Avril 2024 - Mai 2024*
-
-- Automatisation de processus d'accès à une plateforme e-commerce avec **Selenium (Python)**
-- Développement de scripts de connexion automatique et d'extraction de données
-- Web scraping de données produits (prix, disponibilité, caractéristiques)
-- Nettoyage, structuration et export des données pour exploitation interne
-- Documentation technique complète du processus
-
----
-
 ## 🛠️ Stack Technique
 
 ### Frontend
@@ -151,19 +138,6 @@ Visualisation interactive des résultats électoraux :
 
 ---
 
-## 🎓 Formation
-
-### 🎯 Licence Professionnelle en Ingénierie Logicielle
-**Université Mohammed V – Faculté des Sciences de Rabat** | *Septembre 2025 - En cours*
-
-### 🎓 DEUG en Développement Web - Mention Assez Bien
-**Université Mohammed V – Faculté des Sciences de Rabat** | *Septembre 2023 - Juin 2025*
-
-### 📚 Baccalauréat Sciences Mathématiques B
-**Lycée Moulay Youssef, Rabat** | *2023*
-
----
-
 ## 💡 Compétences Méthodologiques
 
 ```
@@ -172,24 +146,6 @@ Visualisation interactive des résultats électoraux :
 ✓ Gestion du temps et priorisation      ✓ Autonomie et apprentissage rapide
 ✓ Documentation technique               ✓ Veille technologique continue
 ```
-
----
-
-## 🌐 Langues
-
-- 🇲🇦 **Arabe** : Langue maternelle
-- 🇫🇷 **Français** : Intermédiaire supérieur (B2)
-- 🇬🇧 **Anglais** : Intermédiaire (B1)
-
----
-
-## 🎯 Centres d'Intérêt
-
-- 🔐 **Cybersécurité** : Sécurité des applications, tests de pénétration, audit réseau
-- 🤖 **Intelligence Artificielle** : Machine Learning, Deep Learning
-- 🎮 **Développement de Jeux Vidéo** : Game design, programmation gameplay
-- 🌍 **Projets Open-Source** : Contribution à la communauté
-- 💪 **Musculation** : Discipline et dépassement de soi
 
 ---
 
